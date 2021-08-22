@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Me](https://user-images.githubusercontent.com/88872074/130349407-5fae729e-e984-4354-a6af-8b731877daed.jpg)
+
 <!--
 **konyeemeosi78/konyeemeosi78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
